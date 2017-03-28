@@ -19,8 +19,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Home](pages/about.md)
-
 [Boards](pages/boards/Boards.md)
 
 [API](pages/api/MSP_extensions.md)
